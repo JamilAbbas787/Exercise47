@@ -1,0 +1,7 @@
+C:\Users\jamil\Desktop\GrandCircus\Exercise47\Exercise47\Exercise47\bin\Debug\Exercise47.exe.config
+C:\Users\jamil\Desktop\GrandCircus\Exercise47\Exercise47\Exercise47\bin\Debug\Exercise47.exe
+C:\Users\jamil\Desktop\GrandCircus\Exercise47\Exercise47\Exercise47\bin\Debug\Exercise47.pdb
+C:\Users\jamil\Desktop\GrandCircus\Exercise47\Exercise47\Exercise47\obj\Debug\Exercise47.csproj.CoreCompileInputs.cache
+C:\Users\jamil\Desktop\GrandCircus\Exercise47\Exercise47\Exercise47\obj\Debug\Exercise47.exe
+C:\Users\jamil\Desktop\GrandCircus\Exercise47\Exercise47\Exercise47\obj\Debug\Exercise47.pdb
+C:\Users\jamil\Desktop\GrandCircus\Exercise47\Exercise47\Exercise47\obj\Debug\Exercise47.csprojAssemblyReference.cache
